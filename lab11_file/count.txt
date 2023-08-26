@@ -1,0 +1,3 @@
+Hello how are you   
+this file is opened in ofstream using VS code
+ 12312 my name is hitu raj
